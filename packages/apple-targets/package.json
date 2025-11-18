@@ -35,7 +35,7 @@
   "dependencies": {
     "@bacons/xcode": "1.0.0-alpha.24",
     "@react-native/normalize-colors": "^0.76.1",
-    "glob": "^10.4.2",
+    "glob": "^11.1.0",
     "debug": "^4.3.4"
   },
   "devDependencies": {
